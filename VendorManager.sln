@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendorManager", "VendorManager\VendorManager.csproj", "{8B4E9EE1-D4F9-4F4D-B5FB-25ED7F4776E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B4E9EE1-D4F9-4F4D-B5FB-25ED7F4776E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B4E9EE1-D4F9-4F4D-B5FB-25ED7F4776E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B4E9EE1-D4F9-4F4D-B5FB-25ED7F4776E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B4E9EE1-D4F9-4F4D-B5FB-25ED7F4776E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0754FBE-8A47-46BD-9ADC-C41A2E644A11}
+	EndGlobalSection
+EndGlobal

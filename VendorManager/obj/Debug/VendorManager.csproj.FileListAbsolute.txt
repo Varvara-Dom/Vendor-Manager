@@ -1,0 +1,16 @@
+C:\Users\79692\source\repos\VendorManager\VendorManager\obj\Debug\VendorManager.csproj.AssemblyReference.cache
+C:\Users\79692\source\repos\VendorManager\VendorManager\obj\Debug\VendorManager.Properties.Resources.resources
+C:\Users\79692\source\repos\VendorManager\VendorManager\obj\Debug\VendorManager.csproj.GenerateResource.cache
+C:\Users\79692\source\repos\VendorManager\VendorManager\obj\Debug\VendorManager.csproj.CoreCompileInputs.cache
+C:\Users\79692\source\repos\VendorManager\VendorManager\bin\Debug\VendorManager.exe.config
+C:\Users\79692\source\repos\VendorManager\VendorManager\bin\Debug\VendorManager.exe
+C:\Users\79692\source\repos\VendorManager\VendorManager\bin\Debug\VendorManager.pdb
+C:\Users\79692\source\repos\VendorManager\VendorManager\bin\Debug\EntityFramework.dll
+C:\Users\79692\source\repos\VendorManager\VendorManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\79692\source\repos\VendorManager\VendorManager\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\79692\source\repos\VendorManager\VendorManager\bin\Debug\EntityFramework.xml
+C:\Users\79692\source\repos\VendorManager\VendorManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\79692\source\repos\VendorManager\VendorManager\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\79692\source\repos\VendorManager\VendorManager\obj\Debug\VendorMa.A1A8C5F4.Up2Date
+C:\Users\79692\source\repos\VendorManager\VendorManager\obj\Debug\VendorManager.exe
+C:\Users\79692\source\repos\VendorManager\VendorManager\obj\Debug\VendorManager.pdb
